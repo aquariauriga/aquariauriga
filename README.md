@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Hi, perkenalkan namaku **Salsabila Dzikra** atau biasa dipanggil dengan Zeeka.\
-Saya seorang mahasiswa Jurusan Psikologi tingkat akhir di **Universitas Indonesia**.\
-Saat ini saya mengambil studi independen **Bangkit** dengan *learning path* **Machine Learning**. Saya merasa ini merupakan kesempatan yang sangat berharga, khususnya bagi saya yang tidak memiliki latar belakang pendidikan IT.\
+
+Saya seorang mahasiswa Jurusan Psikologi tingkat akhir di **Universitas Indonesia**. Saat ini saya mengambil studi independen **Bangkit** dengan *learning path* **Machine Learning**. Saya merasa ini merupakan kesempatan yang sangat berharga, khususnya bagi saya yang tidak memiliki latar belakang pendidikan IT.\
+
 Ketertarikan saya pada IT berawal dari ketertarikan saya pada data-data kuantitatif selama saya mengerjakan penelitian kuantitatif di Jurusan Psikologi. Pada tahun 2022, saya berkesempatan mengikuti course Data Analytics secara gratis dari KADIN Indonesia. Lalu, saya memutuskan untuk mendalami IT dengan memberanikan diri mendaftar Bangkit 2023 batch 1. Namun sayangnya, saya tidak diterima pada batch tersebut. Puji syukur, pada batch kali ini saya berhasil lolos menjadi salah satu peserta Bangkit 2023 Batch 2.\
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/salsabiladzikra/)ku ya.
